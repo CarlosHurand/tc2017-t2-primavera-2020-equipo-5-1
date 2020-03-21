@@ -6,8 +6,7 @@
 1. Carla Pérez Gavilán Del Castillo - *A01023033* - *CSF*
 2. Rubén Hernández Rivas - *A01024669* - *CSF*
 3. Christian Alberto Dalma Schultz - *A01423166* - *CSF*
-4. *[Poner aquí Nombre y Apellidos del integrante 4]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-5. *[Poner aquí Nombre y Apellidos del integrante 5]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
+4. Juan Carlos Hurtado Andrade - *A01025193* - *CSF*
 
 ---
 ## 1. Aspectos generales
